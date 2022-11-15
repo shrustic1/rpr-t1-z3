@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"main.java.ba.unsa.etf.rpr.t1","l":"Clock"}];updateSearchResults();
